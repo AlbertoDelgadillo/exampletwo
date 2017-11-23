@@ -3,6 +3,9 @@ package treecoders.com.mx.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * Commentarios para la clase
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
